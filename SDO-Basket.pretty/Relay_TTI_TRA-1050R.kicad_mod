@@ -46,4 +46,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model "${KIPRJMOD}/../SDO-KiCad-libs/SDO-Basket.pretty/Relay_TTI_TRA-1050R.stp"
+    (offset (xyz 11.5 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

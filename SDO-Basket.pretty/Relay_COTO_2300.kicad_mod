@@ -41,11 +41,16 @@
   (pad "7" thru_hole circle (at -6.35 -1.27) (size 1.7 1.7) (drill 0.7) (layers *.Cu *.Mask) (tstamp ac24177b-7fa1-411b-b48a-6f2ed13f4be0))
   (pad "8" thru_hole circle (at -8.89 -1.27) (size 1.7 1.7) (drill 0.7) (layers *.Cu *.Mask) (tstamp b8181453-051d-47c0-a9e9-ca9c571663da))
   (model "${KIPRJMOD}/basket.pretty/COTO 23XX-XX-0X0 6pin.stp"
-    (offset (xyz 0 0 4.7))
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
   (model "${KIPRJMOD}/../basket.pretty/COTO 23XX-XX-0X0 6pin.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KIPRJMOD}/../SDO-KiCad-libs/SDO-Basket.pretty/COTO 23XX-XX-0X0 6pin.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

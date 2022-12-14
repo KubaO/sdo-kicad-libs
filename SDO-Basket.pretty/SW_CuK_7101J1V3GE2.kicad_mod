@@ -28,7 +28,7 @@
   (fp_line (start 13.843 -4.445) (end 13.843 4.445) (layer "F.Fab") (width 0.1) (tstamp c53533fa-51ce-4b14-8d2d-3c119592dbb0))
   (fp_line (start 13.843 4.445) (end -4.445 4.445) (layer "F.Fab") (width 0.1) (tstamp ecb5e41e-e630-4adf-9973-81f5b5f5dbfd))
   (fp_line (start -4.445 -4.445) (end 13.843 -4.445) (layer "F.Fab") (width 0.1) (tstamp ef1be669-60c5-452c-88e7-4a5fb47d50d4))
-  (pad "0" thru_hole custom (at 12.573 -1.5875) (size 0 0) (drill 1.397) (layers *.Cu *.Mask)
+  (pad "0" thru_hole custom (at 12.573 -1.5875) (size 0.001 0.001) (drill 1.397) (layers *.Cu *.Mask)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
@@ -40,7 +40,7 @@
           (xy -1.1938 -2.7178)
         ) (width 0.0254) (fill yes))
     ) (tstamp 4b5126da-e064-45b7-be15-1d140061cfaf))
-  (pad "0" thru_hole custom (at 12.573 1.5875) (size 0 0) (drill 1.8542) (layers *.Cu *.Mask)
+  (pad "0" thru_hole custom (at 12.573 1.5875) (size 0.001 0.001) (drill 1.8542) (layers *.Cu *.Mask)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
@@ -52,7 +52,7 @@
           (xy -1.1938 2.7178)
         ) (width 0.0254) (fill yes))
     ) (tstamp 9257d28a-8690-403f-a8d2-d7d3c825257e))
-  (pad "0" thru_hole custom (at -3.175 -1.5875 180) (size 0 0) (drill 1.8542) (layers *.Cu *.Mask)
+  (pad "0" thru_hole custom (at -3.175 -1.5875 180) (size 0.001 0.001) (drill 1.8542) (layers *.Cu *.Mask)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
@@ -64,7 +64,7 @@
           (xy -1.1938 2.7178)
         ) (width 0.0254) (fill yes))
     ) (tstamp d32ae94d-d304-45cb-bad6-3606c69d685c))
-  (pad "0" thru_hole custom (at -3.175 1.5875 180) (size 0 0) (drill 1.397) (layers *.Cu *.Mask)
+  (pad "0" thru_hole custom (at -3.175 1.5875 180) (size 0.001 0.001) (drill 1.397) (layers *.Cu *.Mask)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
@@ -80,6 +80,11 @@
   (pad "2" thru_hole circle (at 4.699 0) (size 3.1242 3.1242) (drill 1.8542) (layers *.Cu *.Mask) (tstamp 02f1c38d-7236-4518-a78b-d3d327841222))
   (pad "3" thru_hole circle (at 9.398 0) (size 3.1242 3.1242) (drill 1.8542) (layers *.Cu *.Mask) (tstamp 5abf7ffb-b382-4ef2-a28a-f23ad19d712b))
   (model "${KIPRJMOD}/../basket.pretty/SW_CuK_7101J1V3GE2.stp"
+    (offset (xyz 4.699 0 10.16))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 180))
+  )
+  (model "${KIPRJMOD}/../SDO-KiCad-libs/SDO-Basket.pretty/SW_CuK_7101J1V3GE2.stp"
     (offset (xyz 4.699 0 10.16))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

@@ -23,4 +23,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model "${KIPRJMOD}/../SDO-KiCad-libs/SDO-Basket.pretty/Lamp_Neon_D5.0mm.stp"
+    (offset (xyz 1.85 0 0.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

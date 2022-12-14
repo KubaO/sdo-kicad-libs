@@ -36,4 +36,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -90 180))
   )
+  (model "${KIPRJMOD}/../SDO-KiCad-libs/SDO-Basket.pretty/Handle_Vero_0240_0245.stp"
+    (offset (xyz 0 2.1 -0.9))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 -90 180))
+  )
 )

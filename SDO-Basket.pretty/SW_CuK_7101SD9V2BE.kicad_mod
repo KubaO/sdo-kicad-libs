@@ -40,4 +40,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))
   )
+  (model "${KIPRJMOD}/../SDO-KiCad-libs/SDO-Basket.pretty/SW_CuK_7101SD9V2BE.stp"
+    (offset (xyz 4.699 0 12.7))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 180))
+  )
 )

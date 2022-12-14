@@ -57,4 +57,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model "${KIPRJMOD}/../SDO-KiCad-libs/SDO-Basket.pretty/NEC MR62.stp"
+    (offset (xyz 8.8 3.8 0.42))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
