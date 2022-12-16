@@ -4319,7 +4319,7 @@
     (property "Value" "IC_CD4503BE-43" (id 1) (at 0 -10.16 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" (id 2) (at 0 -13.97 0)
+    (property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads" (id 2) (at 0 -13.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at -1.27 -2.54 0)
