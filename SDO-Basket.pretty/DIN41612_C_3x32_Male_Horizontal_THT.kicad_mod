@@ -197,7 +197,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))
   )
-  (model "${KIPRJMOD}/../SDO-KiCad-libs/SDO-Basket.pretty/86093967113755elf.stp"
+  (model "${KIPRJMOD}/../SDO-KiCad-libs/SDO-Basket.pretty/Conn_FCI_86093967113755elf.stp"
     (offset (xyz -7.4676 12.6238 -1.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))
