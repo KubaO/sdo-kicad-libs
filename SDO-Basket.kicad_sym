@@ -13916,7 +13916,7 @@
     (property "Footprint" "SDO-Basket:SW_CuK_7103MD9AV2BE" (id 2) (at 0 -7.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 0 -10.16 0)
+    (property "Datasheet" "${KIPRJMOD}/../SDO-KiCad-libs/Datasheets/switch toggle 7101-S-D9-V2-B-E.pdf" (id 3) (at 0 -10.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_keywords" "switch single-pole double-throw right angle vertical spdt ON-OFF-ON" (id 4) (at 0 0 0)
